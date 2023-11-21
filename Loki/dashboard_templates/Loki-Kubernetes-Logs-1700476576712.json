@@ -62,9 +62,22 @@
   "editable": false,
   "fiscalYearStartMonth": 0,
   "gnetId": 15141,
-  "graphTooltip": 2,
+  "graphTooltip": 1,
   "id": null,
-  "links": [],
+  "links": [
+    {
+      "asDropdown": false,
+      "icon": "doc",
+      "includeVars": false,
+      "keepTime": false,
+      "tags": [],
+      "targetBlank": true,
+      "title": "Visit me in Github",
+      "tooltip": "",
+      "type": "link",
+      "url": "https://github.com/dellnoantechnp/grafana_dashboards"
+    }
+  ],
   "liveNow": true,
   "panels": [
     {
@@ -469,7 +482,7 @@
       },
       {
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "",
           "value": ""
         },
